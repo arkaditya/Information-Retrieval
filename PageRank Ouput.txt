@@ -1,0 +1,46 @@
+### All the page rank values are redirected to output file out.txt ###
+
+
+>python pagerank.py
+Enter the input file:   test1.txt
+Enter the no of iterations to be run for PageRank computation:  15
+
+========= THE Top 10 DocID, PAGE RANK pairs =========
+4 :   0.12036943902959257
+1 :   0.13233717889584845
+3 :   0.17659674590273486
+2 :   0.2516760251791775
+0 :   0.3190206109926469
+
+
+>python pagerank.py
+Enter the input file:   test2.txt
+Enter the no of iterations to be run for PageRank computation:  20
+
+========= THE Top 10 DocID, PAGE RANK pairs =========
+4 :   0.024415631785014352
+6 :   0.024415631785014352
+0 :   0.08104080874443007
+7 :   0.08633614291872387
+2 :   0.09472866975677083
+1 :   0.12659343408985205
+3 :   0.134985960927899
+5 :   0.13914197746480478
+9 :   0.1426672898278525
+8 :   0.1456744526996384
+
+
+
+*** Test 3 file is created from a problem discussed in the  class ****
+>python pagerank.py
+Enter the input file:   test3.txt
+Enter the no of iterations to be run for PageRank computation:  20
+
+========= THE Top 10 DocID, PAGE RANK pairs =========
+1 :   0.037267084648369385
+5 :   0.037267084648369385
+0 :   0.05448311793058161
+2 :   0.11664059035436515
+4 :   0.2100746149392968
+3 :   0.24312916144130703
+6 :   0.3011383460377094

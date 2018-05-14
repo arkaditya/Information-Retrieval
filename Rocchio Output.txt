@@ -1,0 +1,76 @@
+LEADERS WHICH FIGURE IN DISCUSSIONS OF THE FUTURE OF THE WEST GERMAN CHANCELLORSHIP
+
+47  56  81 103 150 183 291
+
+The Top 10 documents for the ROCCHIO Retreival is:
+56 056.txt
+81 081.txt
+183 183.txt
+150 150.txt
+103 103.txt
+291 291.txt	
+325 325.txt
+82 082.txt
+205 205.txt
+22 022.txt
+
+Enter the documents which are relevant: 56 81 183 150 291 103
+Enter the documents which are non relevant: 22 205 82 325
+
+The Top 10 documents for the ROCCHIO Retreival is:
+103 103.txt
+291 291.txt
+56 056.txt
+183 183.txt
+81 081.txt
+150 150.txt
+151 151.txt
+325 325.txt
+124 124.txt
+265 265.txt
+
+Enter the documents which are relevant: 103 291 183  150 81 56
+Enter the documents which are non relevant: 265 124 325 151
+
+The Top 10 documents for the ROCCHIO Retreival is:
+103 103.txt
+291 291.txt
+56 056.txt
+183 183.txt
+81 081.txt
+150 150.txt
+151 151.txt
+325 325.txt
+124 124.txt
+265 265.txt
+
+Enter the documents which are relevant: 103 291 56 183 81
+Enter the documents which are non relevant: 151 325 124 265
+
+103 103.txt
+291 291.txt
+56 056.txt
+183 183.txt
+81 081.txt
+150 150.txt
+151 151.txt
+325 325.txt
+96 096.txt
+202 202.txt
+
+
+Continue (Y/N): Y
+Enter the documents which are relevant: 103 291 56 183 81 150
+Enter the documents which are non relevant: 151 325 96 202  
+
+The Top 10 documents for the ROCCHIO Retreival is:
+103 103.txt
+291 291.txt
+56 056.txt
+183 183.txt
+81 081.txt
+150 150.txt
+151 151.txt
+325 325.txt
+124 124.txt
+265 265.txt

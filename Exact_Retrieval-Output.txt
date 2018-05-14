@@ -1,0 +1,531 @@
+     
+DocID 0 ==> Text-1.txt
+DocID 1 ==> Text-10.txt
+DocID 2 ==> Text-100.txt
+DocID 3 ==> Text-101.txt
+DocID 4 ==> Text-102.txt
+DocID 5 ==> Text-103.txt
+DocID 6 ==> Text-104.txt
+DocID 7 ==> Text-105.txt
+DocID 8 ==> Text-106.txt
+DocID 9 ==> Text-107.txt
+DocID 10 ==> Text-108.txt
+DocID 11 ==> Text-109.txt
+DocID 12 ==> Text-11.txt
+DocID 13 ==> Text-110.txt
+DocID 14 ==> Text-111.txt
+DocID 15 ==> Text-112.txt
+DocID 16 ==> Text-113.txt
+DocID 17 ==> Text-114.txt
+DocID 18 ==> Text-115.txt
+DocID 19 ==> Text-116.txt
+DocID 20 ==> Text-117.txt
+DocID 21 ==> Text-118.txt
+DocID 22 ==> Text-119.txt
+DocID 23 ==> Text-12.txt
+DocID 24 ==> Text-120.txt
+DocID 25 ==> Text-121.txt
+DocID 26 ==> Text-122.txt
+DocID 27 ==> Text-123.txt
+DocID 28 ==> Text-124.txt
+DocID 29 ==> Text-125.txt
+DocID 30 ==> Text-126.txt
+DocID 31 ==> Text-127.txt
+DocID 32 ==> Text-128.txt
+DocID 33 ==> Text-129.txt
+DocID 34 ==> Text-13.txt
+DocID 35 ==> Text-130.txt
+DocID 36 ==> Text-131.txt
+DocID 37 ==> Text-132.txt
+DocID 38 ==> Text-133.txt
+DocID 39 ==> Text-134.txt
+DocID 40 ==> Text-135.txt
+DocID 41 ==> Text-136.txt
+DocID 42 ==> Text-137.txt
+DocID 43 ==> Text-138.txt
+DocID 44 ==> Text-139.txt
+DocID 45 ==> Text-14.txt
+DocID 46 ==> Text-140.txt
+DocID 47 ==> Text-141.txt
+DocID 48 ==> Text-142.txt
+DocID 49 ==> Text-143.txt
+DocID 50 ==> Text-144.txt
+DocID 51 ==> Text-145.txt
+DocID 52 ==> Text-146.txt
+DocID 53 ==> Text-147.txt
+DocID 54 ==> Text-148.txt
+DocID 55 ==> Text-149.txt
+DocID 56 ==> Text-15.txt
+DocID 57 ==> Text-150.txt
+DocID 58 ==> Text-151.txt
+DocID 59 ==> Text-152.txt
+DocID 60 ==> Text-153.txt
+DocID 61 ==> Text-154.txt
+DocID 62 ==> Text-155.txt
+DocID 63 ==> Text-156.txt
+DocID 64 ==> Text-157.txt
+DocID 65 ==> Text-158.txt
+DocID 66 ==> Text-159.txt
+DocID 67 ==> Text-16.txt
+DocID 68 ==> Text-160.txt
+DocID 69 ==> Text-161.txt
+DocID 70 ==> Text-162.txt
+DocID 71 ==> Text-163.txt
+DocID 72 ==> Text-164.txt
+DocID 73 ==> Text-165.txt
+DocID 74 ==> Text-166.txt
+DocID 75 ==> Text-167.txt
+DocID 76 ==> Text-168.txt
+DocID 77 ==> Text-169.txt
+DocID 78 ==> Text-17.txt
+DocID 79 ==> Text-170.txt
+DocID 80 ==> Text-171.txt
+DocID 81 ==> Text-172.txt
+DocID 82 ==> Text-173.txt
+DocID 83 ==> Text-174.txt
+DocID 84 ==> Text-175.txt
+DocID 85 ==> Text-176.txt
+DocID 86 ==> Text-177.txt
+DocID 87 ==> Text-178.txt
+DocID 88 ==> Text-179.txt
+DocID 89 ==> Text-18.txt
+DocID 90 ==> Text-180.txt
+DocID 91 ==> Text-181.txt
+DocID 92 ==> Text-182.txt
+DocID 93 ==> Text-183.txt
+DocID 94 ==> Text-184.txt
+DocID 95 ==> Text-185.txt
+DocID 96 ==> Text-186.txt
+DocID 97 ==> Text-187.txt
+DocID 98 ==> Text-188.txt
+DocID 99 ==> Text-189.txt
+DocID 100 ==> Text-19.txt
+DocID 101 ==> Text-190.txt
+DocID 102 ==> Text-191.txt
+DocID 103 ==> Text-192.txt
+DocID 104 ==> Text-193.txt
+DocID 105 ==> Text-194.txt
+DocID 106 ==> Text-195.txt
+DocID 107 ==> Text-196.txt
+DocID 108 ==> Text-197.txt
+DocID 109 ==> Text-198.txt
+DocID 110 ==> Text-199.txt
+DocID 111 ==> Text-2.txt
+DocID 112 ==> Text-20.txt
+DocID 113 ==> Text-200.txt
+DocID 114 ==> Text-201.txt
+DocID 115 ==> Text-202.txt
+DocID 116 ==> Text-203.txt
+DocID 117 ==> Text-204.txt
+DocID 118 ==> Text-205.txt
+DocID 119 ==> Text-206.txt
+DocID 120 ==> Text-207.txt
+DocID 121 ==> Text-208.txt
+DocID 122 ==> Text-209.txt
+DocID 123 ==> Text-21.txt
+DocID 124 ==> Text-210.txt
+DocID 125 ==> Text-211.txt
+DocID 126 ==> Text-212.txt
+DocID 127 ==> Text-213.txt
+DocID 128 ==> Text-214.txt
+DocID 129 ==> Text-215.txt
+DocID 130 ==> Text-216.txt
+DocID 131 ==> Text-217.txt
+DocID 132 ==> Text-218.txt
+DocID 133 ==> Text-219.txt
+DocID 134 ==> Text-22.txt
+DocID 135 ==> Text-220.txt
+DocID 136 ==> Text-221.txt
+DocID 137 ==> Text-222.txt
+DocID 138 ==> Text-223.txt
+DocID 139 ==> Text-224.txt
+DocID 140 ==> Text-225.txt
+DocID 141 ==> Text-226.txt
+DocID 142 ==> Text-227.txt
+DocID 143 ==> Text-228.txt
+DocID 144 ==> Text-229.txt
+DocID 145 ==> Text-23.txt
+DocID 146 ==> Text-230.txt
+DocID 147 ==> Text-231.txt
+DocID 148 ==> Text-232.txt
+DocID 149 ==> Text-233.txt
+DocID 150 ==> Text-234.txt
+DocID 151 ==> Text-235.txt
+DocID 152 ==> Text-236.txt
+DocID 153 ==> Text-237.txt
+DocID 154 ==> Text-238.txt
+DocID 155 ==> Text-239.txt
+DocID 156 ==> Text-24.txt
+DocID 157 ==> Text-240.txt
+DocID 158 ==> Text-241.txt
+DocID 159 ==> Text-242.txt
+DocID 160 ==> Text-243.txt
+DocID 161 ==> Text-244.txt
+DocID 162 ==> Text-245.txt
+DocID 163 ==> Text-246.txt
+DocID 164 ==> Text-247.txt
+DocID 165 ==> Text-248.txt
+DocID 166 ==> Text-249.txt
+DocID 167 ==> Text-25.txt
+DocID 168 ==> Text-250.txt
+DocID 169 ==> Text-251.txt
+DocID 170 ==> Text-252.txt
+DocID 171 ==> Text-253.txt
+DocID 172 ==> Text-254.txt
+DocID 173 ==> Text-255.txt
+DocID 174 ==> Text-256.txt
+DocID 175 ==> Text-257.txt
+DocID 176 ==> Text-258.txt
+DocID 177 ==> Text-259.txt
+DocID 178 ==> Text-26.txt
+DocID 179 ==> Text-260.txt
+DocID 180 ==> Text-261.txt
+DocID 181 ==> Text-262.txt
+DocID 182 ==> Text-263.txt
+DocID 183 ==> Text-264.txt
+DocID 184 ==> Text-265.txt
+DocID 185 ==> Text-266.txt
+DocID 186 ==> Text-267.txt
+DocID 187 ==> Text-268.txt
+DocID 188 ==> Text-269.txt
+DocID 189 ==> Text-27.txt
+DocID 190 ==> Text-270.txt
+DocID 191 ==> Text-271.txt
+DocID 192 ==> Text-272.txt
+DocID 193 ==> Text-273.txt
+DocID 194 ==> Text-274.txt
+DocID 195 ==> Text-275.txt
+DocID 196 ==> Text-276.txt
+DocID 197 ==> Text-277.txt
+DocID 198 ==> Text-278.txt
+DocID 199 ==> Text-279.txt
+DocID 200 ==> Text-28.txt
+DocID 201 ==> Text-280.txt
+DocID 202 ==> Text-281.txt
+DocID 203 ==> Text-282.txt
+DocID 204 ==> Text-283.txt
+DocID 205 ==> Text-284.txt
+DocID 206 ==> Text-285.txt
+DocID 207 ==> Text-286.txt
+DocID 208 ==> Text-287.txt
+DocID 209 ==> Text-288.txt
+DocID 210 ==> Text-289.txt
+DocID 211 ==> Text-29.txt
+DocID 212 ==> Text-290.txt
+DocID 213 ==> Text-291.txt
+DocID 214 ==> Text-292.txt
+DocID 215 ==> Text-293.txt
+DocID 216 ==> Text-294.txt
+DocID 217 ==> Text-295.txt
+DocID 218 ==> Text-296.txt
+DocID 219 ==> Text-297.txt
+DocID 220 ==> Text-298.txt
+DocID 221 ==> Text-299.txt
+DocID 222 ==> Text-3.txt
+DocID 223 ==> Text-30.txt
+DocID 224 ==> Text-300.txt
+DocID 225 ==> Text-301.txt
+DocID 226 ==> Text-302.txt
+DocID 227 ==> Text-303.txt
+DocID 228 ==> Text-304.txt
+DocID 229 ==> Text-305.txt
+DocID 230 ==> Text-306.txt
+DocID 231 ==> Text-307.txt
+DocID 232 ==> Text-308.txt
+DocID 233 ==> Text-309.txt
+DocID 234 ==> Text-31.txt
+DocID 235 ==> Text-310.txt
+DocID 236 ==> Text-311.txt
+DocID 237 ==> Text-312.txt
+DocID 238 ==> Text-313.txt
+DocID 239 ==> Text-314.txt
+DocID 240 ==> Text-315.txt
+DocID 241 ==> Text-316.txt
+DocID 242 ==> Text-317.txt
+DocID 243 ==> Text-318.txt
+DocID 244 ==> Text-319.txt
+DocID 245 ==> Text-32.txt
+DocID 246 ==> Text-320.txt
+DocID 247 ==> Text-321.txt
+DocID 248 ==> Text-322.txt
+DocID 249 ==> Text-323.txt
+DocID 250 ==> Text-324.txt
+DocID 251 ==> Text-325.txt
+DocID 252 ==> Text-326.txt
+DocID 253 ==> Text-327.txt
+DocID 254 ==> Text-328.txt
+DocID 255 ==> Text-329.txt
+DocID 256 ==> Text-33.txt
+DocID 257 ==> Text-330.txt
+DocID 258 ==> Text-331.txt
+DocID 259 ==> Text-332.txt
+DocID 260 ==> Text-333.txt
+DocID 261 ==> Text-334.txt
+DocID 262 ==> Text-335.txt
+DocID 263 ==> Text-336.txt
+DocID 264 ==> Text-337.txt
+DocID 265 ==> Text-338.txt
+DocID 266 ==> Text-339.txt
+DocID 267 ==> Text-34.txt
+DocID 268 ==> Text-340.txt
+DocID 269 ==> Text-341.txt
+DocID 270 ==> Text-342.txt
+DocID 271 ==> Text-343.txt
+DocID 272 ==> Text-344.txt
+DocID 273 ==> Text-345.txt
+DocID 274 ==> Text-346.txt
+DocID 275 ==> Text-347.txt
+DocID 276 ==> Text-348.txt
+DocID 277 ==> Text-349.txt
+DocID 278 ==> Text-35.txt
+DocID 279 ==> Text-350.txt
+DocID 280 ==> Text-351.txt
+DocID 281 ==> Text-352.txt
+DocID 282 ==> Text-353.txt
+DocID 283 ==> Text-354.txt
+DocID 284 ==> Text-355.txt
+DocID 285 ==> Text-356.txt
+DocID 286 ==> Text-357.txt
+DocID 287 ==> Text-358.txt
+DocID 288 ==> Text-359.txt
+DocID 289 ==> Text-36.txt
+DocID 290 ==> Text-360.txt
+DocID 291 ==> Text-361.txt
+DocID 292 ==> Text-362.txt
+DocID 293 ==> Text-363.txt
+DocID 294 ==> Text-364.txt
+DocID 295 ==> Text-365.txt
+DocID 296 ==> Text-366.txt
+DocID 297 ==> Text-367.txt
+DocID 298 ==> Text-368.txt
+DocID 299 ==> Text-369.txt
+DocID 300 ==> Text-37.txt
+DocID 301 ==> Text-370.txt
+DocID 302 ==> Text-371.txt
+DocID 303 ==> Text-372.txt
+DocID 304 ==> Text-373.txt
+DocID 305 ==> Text-374.txt
+DocID 306 ==> Text-375.txt
+DocID 307 ==> Text-376.txt
+DocID 308 ==> Text-377.txt
+DocID 309 ==> Text-378.txt
+DocID 310 ==> Text-379.txt
+DocID 311 ==> Text-38.txt
+DocID 312 ==> Text-380.txt
+DocID 313 ==> Text-381.txt
+DocID 314 ==> Text-382.txt
+DocID 315 ==> Text-383.txt
+DocID 316 ==> Text-384.txt
+DocID 317 ==> Text-385.txt
+DocID 318 ==> Text-386.txt
+DocID 319 ==> Text-387.txt
+DocID 320 ==> Text-388.txt
+DocID 321 ==> Text-389.txt
+DocID 322 ==> Text-39.txt
+DocID 323 ==> Text-390.txt
+DocID 324 ==> Text-391.txt
+DocID 325 ==> Text-392.txt
+DocID 326 ==> Text-393.txt
+DocID 327 ==> Text-394.txt
+DocID 328 ==> Text-395.txt
+DocID 329 ==> Text-396.txt
+DocID 330 ==> Text-397.txt
+DocID 331 ==> Text-398.txt
+DocID 332 ==> Text-399.txt
+DocID 333 ==> Text-4.txt
+DocID 334 ==> Text-40.txt
+DocID 335 ==> Text-400.txt
+DocID 336 ==> Text-401.txt
+DocID 337 ==> Text-402.txt
+DocID 338 ==> Text-403.txt
+DocID 339 ==> Text-404.txt
+DocID 340 ==> Text-405.txt
+DocID 341 ==> Text-406.txt
+DocID 342 ==> Text-407.txt
+DocID 343 ==> Text-408.txt
+DocID 344 ==> Text-409.txt
+DocID 345 ==> Text-41.txt
+DocID 346 ==> Text-410.txt
+DocID 347 ==> Text-411.txt
+DocID 348 ==> Text-412.txt
+DocID 349 ==> Text-413.txt
+DocID 350 ==> Text-414.txt
+DocID 351 ==> Text-415.txt
+DocID 352 ==> Text-416.txt
+DocID 353 ==> Text-417.txt
+DocID 354 ==> Text-418.txt
+DocID 355 ==> Text-419.txt
+DocID 356 ==> Text-42.txt
+DocID 357 ==> Text-420.txt
+DocID 358 ==> Text-421.txt
+DocID 359 ==> Text-422.txt
+DocID 360 ==> Text-423.txt
+DocID 361 ==> Text-43.txt
+DocID 362 ==> Text-44.txt
+DocID 363 ==> Text-45.txt
+DocID 364 ==> Text-46.txt
+DocID 365 ==> Text-47.txt
+DocID 366 ==> Text-48.txt
+DocID 367 ==> Text-49.txt
+DocID 368 ==> Text-5.txt
+DocID 369 ==> Text-50.txt
+DocID 370 ==> Text-51.txt
+DocID 371 ==> Text-52.txt
+DocID 372 ==> Text-53.txt
+DocID 373 ==> Text-54.txt
+DocID 374 ==> Text-55.txt
+DocID 375 ==> Text-56.txt
+DocID 376 ==> Text-57.txt
+DocID 377 ==> Text-58.txt
+DocID 378 ==> Text-59.txt
+DocID 379 ==> Text-6.txt
+DocID 380 ==> Text-60.txt
+DocID 381 ==> Text-61.txt
+DocID 382 ==> Text-62.txt
+DocID 383 ==> Text-63.txt
+DocID 384 ==> Text-64.txt
+DocID 385 ==> Text-65.txt
+DocID 386 ==> Text-66.txt
+DocID 387 ==> Text-67.txt
+DocID 388 ==> Text-68.txt
+DocID 389 ==> Text-69.txt
+DocID 390 ==> Text-7.txt
+DocID 391 ==> Text-70.txt
+DocID 392 ==> Text-71.txt
+DocID 393 ==> Text-72.txt
+DocID 394 ==> Text-73.txt
+DocID 395 ==> Text-74.txt
+DocID 396 ==> Text-75.txt
+DocID 397 ==> Text-76.txt
+DocID 398 ==> Text-77.txt
+DocID 399 ==> Text-78.txt
+DocID 400 ==> Text-79.txt
+DocID 401 ==> Text-8.txt
+DocID 402 ==> Text-80.txt
+DocID 403 ==> Text-81.txt
+DocID 404 ==> Text-82.txt
+DocID 405 ==> Text-83.txt
+DocID 406 ==> Text-84.txt
+DocID 407 ==> Text-85.txt
+DocID 408 ==> Text-86.txt
+DocID 409 ==> Text-87.txt
+DocID 410 ==> Text-88.txt
+DocID 411 ==> Text-89.txt
+DocID 412 ==> Text-9.txt
+DocID 413 ==> Text-90.txt
+DocID 414 ==> Text-91.txt
+DocID 415 ==> Text-92.txt
+DocID 416 ==> Text-93.txt
+DocID 417 ==> Text-94.txt
+DocID 418 ==> Text-95.txt
+DocID 419 ==> Text-96.txt
+DocID 420 ==> Text-97.txt
+DocID 421 ==> Text-98.txt
+DocID 422 ==> Text-99.txt
+
+
+The Top 5 documents for the EXACT query 'US and december without india reconsider' is:
+156
+383
+234
+401
+127
+Retrieved EXACT query terms from index in 10.3702 seconds
+
+The Top 5 documents from the Champion List for the query 'US and december without india reconsider' is:
+156
+383
+234
+401
+127
+Retrieved CHAMPION_LIST query terms from Champion index in 1.3235 seconds
+
+The Top 5 documents from the Index Elimination for the query 'US and december without india reconsider' is:
+389
+10
+42
+113
+147
+Retrieved Index Elimination of query terms from the main index in 2.3714 seconds
+
+The Top 4 documents for the EXACT query 'Ahead of the Family matter' is:
+293
+58
+91
+294
+Retrieved EXACT query terms from index in 5.1477 seconds
+
+The Top 4 documents from the Champion List for the query 'Ahead of the Family matter' is:
+293
+58
+91
+294
+Retrieved CHAMPION_LIST query terms from Champion index in 1.3562 seconds
+
+The Top 4 documents from the Index Elimination for the query 'Ahead of the Family matter' is:
+146
+75
+101
+396
+Retrieved Index Elimination of query terms from the main index in 3.0822 seconds
+
+The Top 3 documents for the EXACT query 'December not the first month' is:
+94
+69
+11
+Retrieved EXACT query terms from index in 16.7327 seconds
+
+The Top 3 documents from the Champion List for the query 'December not the first month' is:
+94
+69
+11
+Retrieved CHAMPION_LIST query terms from Champion index in 1.0544 seconds
+
+The Top 2 documents for the EXACT query 'That is not needless be running' is:
+94
+394
+Retrieved EXACT query terms from index in 13.9097 seconds
+
+The Top 2 documents from the Champion List for the query 'That is needless not be running' is:
+94
+394
+Retrieved CHAMPION_LIST query terms from Champion index in 1.1917 seconds
+
+The Top 2 documents from the Index Elimination for the query 'That is needless not be running' is:
+88
+15
+Retrieved Index Elimination of query terms from the main index in 1.9011 seconds
+
+The Top 8 documents for the EXACT query 'Kolwezi Corruption and Rivalries' is:
+21
+345
+267
+248
+138
+359
+284
+368
+Retrieved EXACT query terms from index in 0.7416 seconds
+
+The Top 8 documents from the Champion List for the query 'Kolwezi Corruption and Rivalries' is:
+21
+345
+267
+248
+138
+359
+284
+368
+Retrieved CHAMPION_LIST query terms from Champion index in 0.6367 seconds
+
+The Top 8 documents from the Index Elimination for the query 'Kolwezi Corruption and Rivalries' is:
+15
+61
+142
+417
+291
+178
+319
+403
+Retrieved Index Elimination of query terms from the main index in 0.3885 seconds
+
